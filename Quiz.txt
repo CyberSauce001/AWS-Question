@@ -32,3 +32,75 @@ Amazon Simple Notification Service (Amazon SNS)
 
 10) Where can a customer find information about prohibited actions on AWS infrastructure?
 AWS Acceptable Use Policy
+
+11) Which of the following is a factor when calculating Total Cost of Ownership (TCO) for the AWS Cloud?
+The number of servers migrated to AWS
+
+12) Which AWS service can be used as a global content delivery network (CDN) service?
+Amazon CloudFront
+
+13) The firm you work for is considering migrating to AWS. They are concerned about cost and the inital investment needed.
+Which of the following features of AWS pricing helps lower the initial investment amount needed?
+The ability to pay as you go
+No upfront costs
+
+14) Your company has started using AWS. Your IT Security team is concerned with the security of hosting resources in the Cloud.
+Which AWS service provides security optimization recommendations taht could help the IT Security team secure resources using AWS?
+AWS Trusted Advisor
+
+15) YOu are hosting a number of EC2 Instances on AWS. You are looking to monitor CPU Utilization on the Instances. Which service would
+you use to collect and track performance metrics for AWS services?
+Amazon CloudWatch
+
+16) Which of the following support plans give access to all the checks in the Trusted Advisor service.
+Business and Enterprise
+
+17)Which of the following in the AWS maps to a separate geographic location?
+AWS Region
+
+18) If you wanted to monitor all events in your AWS account, which of the below services would you use?
+AWS CloudTrail
+
+19) Yoour development team is planning to host a development environment on the cloud. This consists of EC and RDS instances.
+This environment will probably only be required for 2 months. Which types of instances would you use for this purpose?
+On-Demand
+
+20) Which of the following can be used to secure EC2 Instances?
+Security Groups
+
+21) Which of the following are responsible for AWS?
+Management of Physical Server
+Management of Edge locations
+
+22) Which of the following services allows you to distribute load accross multiple EC2 Instances?
+AWS Elastic Load Balancer
+
+23) You have an application developed in .NET. This applications works with the S3 buckets in a particular region. The 
+application is hosted on an EC2 Instance. Which of the following should ideally be used to ensure that the EC2 Instance has the 
+appropriate access to the S3 buckets?
+AWS IAM Roles
+
+24)You have a requirement to host an application on an EC2 instance that will be used for a minimum of a year. Which of the following
+would be the most cost-effective option?
+Reserved Instances
+
+25) Your firm has several independent AWS accounts and linked AWS accounts. What is the best way to manage monthly payment
+invoices from AWS?
+AWS Consolidated Billing
+
+26) You need a storage solution that can be used to store a large quantity of archive documents. Which of the following storage solutions 
+in AWS is best suited for this need?
+Amazon Glacier
+
+27) Where can a customer find information about prohibited actions on AWS infrastructure?
+AWS Acceptable Use Policy
+
+28) Which service would you use to send alerts based on Amazon CloudWatch alarms?
+Amazon SNS
+
+29) Which of the following services is a fully managed AWS database service?
+Amazon DynamoDB
+
+30) Which service can identify the user that made the API call when an Amazon Elastic Compute Cloud (Amazon EC2) instance 
+is terminated?
+AWS CloudTrail
